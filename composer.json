@@ -3,7 +3,7 @@
     "description": "PHP CEIDG API library",
     "type": "library",
     "require": {
-        "php": ">=7.2",
+        "php": "^8.0",
         "ext-soap": "^7.2",
         "ext-SimpleXML": "^7.2"
     },
